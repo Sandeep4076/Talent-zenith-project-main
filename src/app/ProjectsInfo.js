@@ -3,7 +3,7 @@ import flipkartSnap from "../../public/assets/images/flipkartSnap.png";
 import portfolioSnap from "../../public/assets/images/portfolioSnap.png";
 import notesSnap from "../../public/assets/images/notesSnap.png";
 import outfitlySnap from "../../public/assets/images/outfitlySnap.png";
-import Fj from "../../public/assets/images/Fj.png"
+import Founders from "../../public/assets/images/Founders.png"
 import product from "../../public/assets/images/product.jpeg"
 import Clients from "../../public/assets/images/Clients.png"
 
@@ -22,11 +22,13 @@ export const projects = [
   // },
   {
     title: "Our Founders",
-    image: Fj,
+    image: Founders,
     desc: [
-      "Faisal Jamal",
-      "Founder & CEO",
-      "A successful business leader with 20+ years of experience with some of the finest companies in the world including P & G, Henkel, Savola, and Colgate Palmolive."
+      "Faisal Jamal  (Founder and CEO)",
+       "A successful business leader with 20+ years of experience with some of the finest companies in the world including P & G, Henkel, Savola, and Colgate Palmolive.",
+      "Zarar khan (Founder & CEO)",
+      "A seasoned HR leader with decades of experience with top companies including TCS Holdings, K-Electric, Pakistan Cables, and Summit Bank.",
+     
     ],
   },
 
