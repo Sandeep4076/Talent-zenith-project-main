@@ -3,9 +3,9 @@ import flipkartSnap from "../../public/assets/images/flipkartSnap.png";
 import portfolioSnap from "../../public/assets/images/portfolioSnap.png";
 import notesSnap from "../../public/assets/images/notesSnap.png";
 import outfitlySnap from "../../public/assets/images/outfitlySnap.png";
-import Founders from "../../public/assets/images/Founders.png"
-import product from "../../public/assets/images/product.jpeg"
-import Clients from "../../public/assets/images/Clients.png"
+import Founders from "../../public/assets/images/Founders.jpeg";
+import product from "../../public/assets/images/product.jpeg";
+import Clients from "../../public/assets/images/Clients.png";
 
 export const projects = [
   // {
