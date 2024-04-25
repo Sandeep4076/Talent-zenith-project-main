@@ -3,7 +3,7 @@ import flipkartSnap from "../../public/assets/images/flipkartSnap.png";
 import portfolioSnap from "../../public/assets/images/portfolioSnap.png";
 import notesSnap from "../../public/assets/images/notesSnap.png";
 import outfitlySnap from "../../public/assets/images/outfitlySnap.png";
-import Fj from "../../public/assets/images/fj.png"
+import Fj from "../../public/assets/images/Fj.png"
 import product from "../../public/assets/images/product.jpeg"
 import Clients from "../../public/assets/images/Clients.png"
 
